@@ -2,6 +2,9 @@
 
 - Create React App
 - Configured TailwindCSS
+- Header
+- Login Form & sign up form
+    - validation. formik a form library
 
 # Features
 - Login/Sign up
