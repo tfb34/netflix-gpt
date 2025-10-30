@@ -4,7 +4,7 @@
 - Configured TailwindCSS
 - Header
 - Login Form & sign up form
-    - validation. formik a form library
+    - validation. formik a form library. for custom validation use the useRef hook
 
 # Features
 - Login/Sign up
